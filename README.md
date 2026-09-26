@@ -2,7 +2,7 @@
 
 A simple REST API built with Python, Flask, and SQLAlchemy. This project demonstrates how to create a basic CRUD API for managing drinks using an SQLite database.
 
-This README acts as a beginner-friendly tutorial so you can understand how this type of API is structured and how to run it locally.
+
 
 ---
 
